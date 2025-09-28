@@ -1,5 +1,7 @@
-1.# Sales overview
-"Sales Data Visualization & Reporting".
+# Sales overview
+
+1. Project title
+"Sales Data Visualization & Reporting"
 
 2.The Sales Overview project analyzes business sales data to provide meaningful insights through data visualization and reporting.
 It highlights key metrics such as total sales, top-performing products, regional performance, and monthly trends.
@@ -11,6 +13,8 @@ It highlights key metrics such as total sales, top-performing products, regional
 📊 Power BI / Tableau – Building interactive dashboards and visualizations
 
 📑 Excel – Data validation, exploration, and reporting
+
+
 
 4.📊 Dashboard Explanation
 
