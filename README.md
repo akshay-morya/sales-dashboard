@@ -25,4 +25,14 @@ Top KPIs (Cards at the Top Left)
 500 – Website Visited Times → Number of customer visits recorded (could reflect traffic).
 
 Screenshots / Demos
-Look like the dashboard. -
+Look like the dashboard. -[A](https://github.com/akshay-morya/sales-dashboard/blob/main/Screenshot%202025-09-28%20103145.png)
+
+
+
+
+
+
+
+
+
+
